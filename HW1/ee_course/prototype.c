@@ -285,12 +285,12 @@ void prototype_translate_information(char *model)
         return;
     }
 
-    // 添加对 a03115 模型的处理
+    // new
     if (!strcmp(model, "a03115"))
     {
         g_core.model = 0xa03115;
-        g_core.memory_size_gb = 2; // 根据实际情况设置
-        g_core.revision = 1.0; // 根据实际情况设置
+        g_core.memory_size_gb = 1; // 
+        g_core.revision = 1.0; // 
         return;
     }
 
