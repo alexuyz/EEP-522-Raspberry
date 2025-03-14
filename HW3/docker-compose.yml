@@ -1,0 +1,48 @@
+version: '3.4'
+
+services:
+  server:
+    image: server
+    build: 
+      context: fullstack_blog_app/server
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - 8800:8800
+      - 3002:3002
+    env_file:
+      - fullstack_blog_app/server/.env
+    volumes:
+      - /app/node_modules
+      - ./fullstack_blog_app/server:/app
+
+  client:
+    image: client
+    build:
+      context: fullstack_blog_app/client
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - 3000:3000
+    command: ["npm", "start"]
+    depends_on:
+      - server
+    volumes:
+      - /app/node_modules
+      - ./fullstack_blog_app/client:/app
+  
+  admin:
+    image: admin
+    build:
+      context: fullstack_blog_app/admin
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: development
+    ports:
+      - 3001:3001
+    command: ["npm", "start"]
+    depends_on:
+      - server
+

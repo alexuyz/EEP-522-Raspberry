@@ -1,0 +1,103 @@
+===== 2025-03-14 05:24:54 =====
+Interface: wlan0
+Download rate: 2 KB/s
+Upload rate: 3 KB/s
+Active connections:
+133
+Listening ports:
+tcp        6      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:24:59 =====
+Interface: wlan0
+Download rate: 0 KB/s
+Upload rate: 1 KB/s
+Active connections:
+113
+Listening ports:
+tcp        0      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:25:04 =====
+Interface: wlan0
+Download rate: 1 KB/s
+Upload rate: 2 KB/s
+Active connections:
+113
+Listening ports:
+tcp        0      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:25:09 =====
+Interface: wlan0
+Download rate: 1 KB/s
+Upload rate: 1 KB/s
+Active connections:
+113
+Listening ports:
+tcp        0      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:25:14 =====
+Interface: wlan0
+Download rate: 1 KB/s
+Upload rate: 16 KB/s
+Active connections:
+113
+Listening ports:
+tcp        0      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:25:20 =====
+Interface: wlan0
+Download rate: 0 KB/s
+Upload rate: 0 KB/s
+Active connections:
+113
+Listening ports:
+tcp        0      0 0.0.0.0:9007            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:3306          0.0.0.0:*               LISTEN     
+tcp        4      0 0.0.0.0:8888            0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:43393         0.0.0.0:*               LISTEN     
+tcp        0      0 127.0.0.1:8125          0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:19999           0.0.0.0:*               LISTEN     
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN     
+tcp6       0      0 ::1:8125                :::*                    LISTEN     
+tcp6       0      0 :::19999                :::*                    LISTEN     
+tcp6       0      0 :::22                   :::*                    LISTEN     
+===== 2025-03-14 05:25:25 =====

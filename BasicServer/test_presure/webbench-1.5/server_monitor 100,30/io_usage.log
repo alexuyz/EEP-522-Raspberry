@@ -1,0 +1,28 @@
+===== 2025-03-14 05:24:54 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.37     0.66  31.06    5.80    36.38    2.68     78.20     3.55  57.05   48.75    29.22    0.02   2002.68     0.00  13.89    4.07 115692.27    0.44    0.38    0.14   0.89
+
+===== 2025-03-14 05:24:59 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.36     0.66  31.07    5.80    36.35    2.68     78.17     3.55  57.05   48.74    29.22    0.02   2001.86     0.00  13.89    4.07 115692.27    0.44    0.38    0.14   0.89
+
+===== 2025-03-14 05:25:04 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.34     0.66  31.07    5.80    36.35    2.67     78.15     3.55  57.06   48.73    29.21    0.02   2001.05     0.00  13.89    4.07 115692.27    0.44    0.38    0.14   0.89
+
+===== 2025-03-14 05:25:09 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.32     0.66  31.06    5.79    36.33    2.69     78.19     3.55  56.96   48.58    29.11    0.02   2000.25     0.00  13.89    4.07 115692.27    0.44    0.39    0.14   0.89
+
+===== 2025-03-14 05:25:14 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.30     0.66  31.06    5.79    36.33    2.69     78.21     3.55  56.94   48.53    29.09    0.02   1999.44     0.00  13.89    4.07 115692.27    0.44    0.39    0.14   0.89
+
+===== 2025-03-14 05:25:19 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.29     0.66  31.06    5.79    36.32    2.69     78.18     3.55  56.94   48.52    29.08    0.02   1998.64     0.00  13.89    4.07 115692.27    0.44    0.39    0.14   0.89
+
+===== 2025-03-14 05:25:24 =====
+Device            r/s     rkB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wkB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dkB/s   drqm/s  %drqm d_await dareq-sz     f/s f_await  aqu-sz  %util
+mmcblk0          1.47     53.27     0.66  31.06    5.79    36.32    2.69     78.17     3.55  56.92   48.48    29.06    0.02   1997.84     0.00  13.89    4.07 115692.27    0.44    0.39    0.14   0.89
+
